@@ -1,5 +1,6 @@
 # Welcome to my profile ❤️
 ![cyberpunkleigh's Github Stats](https://github-readme-stats.vercel.app/api?username=cyberpunkleigh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
 ![cyberpunkleigh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpunkleigh&layout=compact&text_color=daf7dc&bg_color=151515)
 
 ## Follow me on Twitter
